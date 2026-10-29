@@ -1,0 +1,3 @@
+streamlit>=1.39,<2
+PyMuPDF>=1.24,<2
+requests>=2.32,<3
